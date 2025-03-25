@@ -26,7 +26,7 @@ A Flutter Movies app that allows users to explore trending, popular, and top-rat
 
 ## 🎥 Demo GIF
 
-<img src="Screenshot 2025-03-23 022746.png" width="400"/>  
+<img src="assets/images/movies_gif.gif" width="400"/>  
 
 ---
 
