@@ -21,11 +21,13 @@ A Flutter Movies app that allows users to explore trending, popular, and top-rat
 - **Networking:** Dio
 - **Local Storage:** Hive
 
+  <img src="assets/images/Screenshot_20250325_233306.png" width="300"/>
+
 ---
 
 ## 🎥 Demo GIF
 
-<img src="assets/images/movies_gif.gif" width="400"/>  
+<img src="Screenshot 2025-03-23 022746.png" width="400"/>  
 
 ---
 
