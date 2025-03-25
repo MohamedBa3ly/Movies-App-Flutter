@@ -20,8 +20,7 @@ A Flutter Movies app that allows users to explore trending, popular, and top-rat
 - **Architecture:** MVVM
 - **Networking:** Dio
 - **Local Storage:** Hive
-
-  <img src="assets/images/Screenshot_20250325_233306.png" width="300"/>
+- **Pagination:** Infinite Scroll Pagination for smooth browsing
 
 ---
 
