@@ -1,21 +1,53 @@
-<<<<<<< HEAD
-# MoviesAppFlutter
-Built with Clean Architecture, powered by Use Cases &amp; Cubit for seamless movie search.
-=======
-# movies_app
+# 🎬 Movies App
 
-A new Flutter project.
+A Flutter Movies app that allows users to explore trending, popular, and top-rated movies with a smooth and engaging UI, Built with Clean Architecture, powered by Use Cases & Cubit for seamless movie search!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- Browse trending, popular, and top-rated movies.
+- View detailed movie information, including ratings and overviews.
+- Search for movies by title.
+- Clean and maintainable architecture.
+- Smooth and responsive user experience.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- **State Management:** Cubit
+- **Dependency Injection:** GetIt
+- **Navigation:** GoRouter
+- **Architecture:** MVVM
+- **Networking:** Dio
+- **Local Storage:** Hive
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 574620e (first commit)
+---
+
+## 🎥 Demo GIF
+
+<img src="assets/images/movies_gif.gif" width="400"/>  
+
+---
+
+## 📸 Screenshots
+
+<img src="assets/images/Screenshot_20250325_233306.png" width="300"/>
+
+<img src="assets/images/Screenshot_20250325_233343.png" width="300"/> 
+
+<img src="assets/images/Screenshot_20250325_233449.png" width="300"/>
+
+<img src="assets/images/Screenshot_20250325_233516.png" width="300"/> 
+
+---
+
+## ⚙️ Requirements
+
+- To run this project, you must set up your API keys:
+- Add your TMDB API Key in the API keys file.
+
+<img src="assets/images/Screenshot 2025-03-25 233617.png" width="300"/>
+
+---
+
+
